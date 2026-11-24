@@ -20,6 +20,10 @@ Every review is principal-led: line-by-line manual auditing combined with custom
 
 Reports are published at [quorint.xyz/audits](https://quorint.xyz/audits/) once each engagement completes.
 
+### Open proposal
+
+[Gonka security proposal](https://github.com/quorint/gonka-security-proposal): an independent security review for the Gonka bridge relaunch, followed by an attack registry, an economic attack simulator and upgrade audits.
+
 ### Contact
 
 Audit and review requests: [contact@quorint.xyz](mailto:contact@quorint.xyz). To report a vulnerability in one of our tools, email us instead of opening a public issue.
